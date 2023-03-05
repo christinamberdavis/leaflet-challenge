@@ -1,6 +1,6 @@
 # leaflet-challenge
 - - -
-![Dashboard Screenshot](Leaflet-Part-1/img/screenshot.png)
+![Dashboard Screenshot](img/screenshot.png)
 - - -
 ## **Project Structure:**
 ## **Background:**
