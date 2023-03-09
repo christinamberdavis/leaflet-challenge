@@ -28,7 +28,7 @@ Relevant Files:
 3. Shallow earthquakes have lighter, whiter centers. 
 
 ## Resources:
-Earthquake Data: [Spotify Weekly Top 200 Songs Streaming Data](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson)
+Earthquake Data: [Significant EarthQuakes from the Past Month](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_month.geojson)
 
 More information on the earthquake data can be found [here](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php). 
 
